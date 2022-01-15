@@ -1,0 +1,2 @@
+nodes: ['entry', 'C4', 'F7', 'C7', 'end']
+edges: [['entry', 'C4'], ['C4', 'F7'], ['F7', 'C7'], ['C7', 'end']]

@@ -1,0 +1,50 @@
+1616673948195	geckodriver	INFO	Listening on 127.0.0.1:51320
+1616673951022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileEnvO1E"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616673953449	Marionette	INFO	Listening on port 51329
+1616673953746	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.educg.net.cn/push?callback=jQuery351014033511727622106_1616674012556&_=1616674012557, line 1: SyntaxError: expected expression, got '<'
+JavaScript warning: https://www.educg.net.cn/js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1616674016260	Marionette	INFO	Stopped listening on port 51329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616674019277	geckodriver	INFO	Listening on 127.0.0.1:61189
+1616674022325	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofileJJZ9dh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616674025009	Marionette	INFO	Listening on port 61197
+1616674025508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://cstlab.jsnu.edu.cn/indexcs/index.jsp?loginErr=0, line 1: SyntaxError: identifier starts immediately after numeric literal
+1616674041104	Marionette	INFO	Stopped listening on port 61197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616674774633	geckodriver	INFO	Listening on 127.0.0.1:57179
+1616674777697	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofile0VIQbH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616674780135	Marionette	INFO	Listening on port 57189
+1616674780372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cstlab.jsnu.edu.cn/indexcs/index.jsp?loginErr=0, line 1: SyntaxError: identifier starts immediately after numeric literal
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1616674887380	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+console.info: "Skipping device list refresh; not signed in"
+1616674887382	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1787:18) JS Stack trace: _error@FxAccounts.jsm:1787:18
+withVerifiedAccountState/<@FxAccounts.jsm:805:20
+1616674887382	FirefoxAccounts	ERROR	FxA rejecting with error UNVERIFIED_ACCOUNT, details: undefined
+1616674887383	FirefoxAccounts	ERROR	Background refresh of initial profile failed: Error: UNVERIFIED_ACCOUNT(resource://gre/modules/FxAccounts.jsm:1787:18) JS Stack trace: _error@FxAccounts.jsm:1787:18
+withVerifiedAccountState/<@FxAccounts.jsm:805:20
+1616674908384	Marionette	INFO	Stopped listening on port 57189
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilecEG7Rg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616674909222	Marionette	INFO	Listening on port 59209
+1616674909629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616675224937	Marionette	INFO	Stopped listening on port 59209
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
